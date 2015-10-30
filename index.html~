@@ -1,1 +1,128 @@
-I am Jinghan
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>jinghan's homepage</title>
+<meta name="homepage" content="jinghan's homepage" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<span id="top"></span>
+<div id="templatemo_body_wrapper">
+<div id="templatemo_wrapper">
+	<div id="templatemo_header">
+        <div id="site_title">
+            <h1>Welcom to my page!</h1>
+        </div>
+        <div id="templatemo_menu">
+            <ul>
+                <li><a href="#home">Hometown</a></li>
+                <li><a href="#aboutus">About Us</a></li>
+            </ul>    	
+        </div> <!-- end of templatemo_menu -->
+	</div> <!-- end of header -->
+    
+  <div id="templatemo_main">
+    
+		<div id="home" class="content_top"></div>
+    	<div class="content_box">
+        	<div class="content_title content_ctf">
+        	  <h2>我的家乡</h2></div>
+            <div class="content">
+            	<div class="image_wrapper image_fl"><img src="images/templatemo_image_01.jpg" alt="Image" /></div>
+                <p>华山西峰:是华山秀丽险峻的山峰。峰顶翠云宫前有巨石状如莲花，故又名莲花峰。西北绝崖千丈，似刀削锯截，其陡峭巍峨、阳刚挺拔之势是华山山形之代表，因此古人常把华山叫莲花三圣母山。西峰上景观比比皆是，有翠云宫、莲花洞、斧劈石、舍身崖等，并伴有许多美丽的神话传说。峰上崖壁题刻遍布，工草隶篆，琳琅满目。塔下岩石上有"枕破鸿蒙"题刻，是书法家王铎手迹。</br>华山北峰:云台峰，是华山主峰之一，海拔1614米。此峰四面悬绝，上冠景云，下通地脉，巍然独秀，有若云台，因此得名峰上景观颇多，有影响的如真武殿、焦公石室、长春石室、玉女窗、仙油贡、神土崖、倚云亭、老君挂犁处、铁牛台、白云仙境石牌坊等，且各景点均伴有美丽的神话传说。
+
+
+               </p>
+                
+		    <div class="cleaner h30"></div>
+                <div class="col_w340 float_l">
+                  <h3>其他景点</h3>
+                    <ul class="tmo_list">
+                        <li>兵马俑 ———— 西安市临潼区</li>
+                        <li>华清池 ———— 西安市临潼区</li>
+                        <li>法门寺 ———— 宝鸡扶风县</li>
+                        <li>古城墙 ———— 西安市碑林区</li>
+                        <li>黄帝陵 ———— 延安市黄陵县</li>
+                    </ul>
+                </div>
+    			<div class="col_w340 float_r">
+                    <h3>古城必吃</h3>
+                    <blockquote>
+                    <p>羊肉泡馍  凉皮  灌汤包  肉夹馍 冰峰 荞面饸饹 水盆羊肉 小酥肉 卤汁凉粉 涮牛肚 酸菜炒米 烤肉  岐山臊子面  煎饼 汉中浆水面 菜豆腐</p>
+ </blockquote>
+          		</div>
+                
+                <div class="cleaner"></div>
+            </div>
+            
+            <div class="content_bottom content_cb"><a href="#templatemo_header" class="gototop">Go To Top</a></div>
+		</div> 
+        
+        <div id="aboutus" class="content_top"></div>
+    	<div class="content_box">
+        	<div class="content_title content_ct"><h2>关于我</h2></div>
+            <div class="content">
+            	<div class="image_wrapper image_fr"><img src="images/templatemo_image_02.jpg" alt="Image" /></a><span></span></div>
+                <p><em>我是井寒，土生土长的陕西吃货一枚。我今年24岁，是个萌哒哒的小女子。我的特长很多，却没有一样精通的，会打羽毛球，游泳，唱歌，弹吉他等等等等，但都是菜鸟级别～～～</em></p>
+                <p><em>我最喜欢的就是吃了，每天都会逛美团和大众点评，看着美食流口水，哈哈。最爱吃的是火锅，像什么四川火锅，北京涮锅都很喜欢，你们要是去吃火锅记得叫我～ <em></p>
+                <p><em>第二喜欢的就是旅游，喜欢看自然风景，有文化特色的景点也可以试试，去过四川，云南，广州，深圳，甘肃......最喜欢的就是前不久的甘南了，有牛羊马儿在草原吃草，有蓝蓝的天还有庄严的寺庙和虔诚的信徒～<em></p>
+            <div class="cleaner h30"></div>
+                <div class="col_w340 float_l">
+                    <h3>联系我</h3>
+                    <ul class="tmo_list">
+                        <li>电话：1122334455</li>
+                        <li>邮箱：aassddff@haha.com</li>
+                        <li>地址：哈哈，不告诉你</li>
+                        <li>工作单位：也不告诉你</li>
+                        <li>其他：电话和邮箱也是假的，哈哈</li>
+                    </ul>
+          		</div>
+                <div class="col_w340 float_r">
+                    <h3>给我留言</h3>
+                    <blockquote>
+                                    <form method="post" name="contact" action="#contactus">
+
+               	  <label for="author">姓名:</label> <input type="text" id="author" name="author" class="input_field" />
+                    <div class="cleaner h10"></div>
+                    
+               	  <label for="text">留言:</label> <textarea id="text" name="text" rows="0" cols="26"></textarea>
+                    <div class="cleaner h10"></div>
+                    
+                  <input type="submit" class="submit_btn float_l" name="submit" id="submit" value="发送" />
+               	  <input type="reset" class="submit_btn float_r" name="reset" id="reset" value="重置" />
+                  
+                    
+                </div>
+                
+                <div class="cleaner"></div>
+            </div>
+            
+            <div class="content_bottom content_cb"><a href="#templatemo_header" class="gototop">Go To Top</a></div>
+		</div>    
+        
+                
+            </div>
+                
+                <div class="col_w340 float_r">
+               
+                <div class="cleaner"></div>
+            </div>
+            
+           
+		</div> 
+    </div>
+    
+    <div id="templatemo_footer">
+
+        Copyright © 2072 jinghan<br />
+        
+        <div class="cleaner"></div>
+    </div>
+    
+</div> <!-- end of warpper -->
+</div> <!-- end of body wrapper -->
+
+</body>
+</html>

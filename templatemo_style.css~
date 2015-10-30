@@ -53,7 +53,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 .tmo_list { margin: 20px 0 20px 10px; padding: 0; list-style: none }
 .tmo_list li { color:#83cf32; margin: 0; padding: 0 0 5px 15px;font-size: 14px; background: url(images/templatemo_list.png) no-repeat scroll 0 4px  }
-.tmo_list li a { color: #83cf32; font-weight: normal; text-decoration: none }
+.tmo_list li a { color: #83cf32; font-weight: normal; font-size: 15px; text-decoration: none }
 .tmo_list li a:hover { color: #83cf32; text-decoration: underline }
 
 #templatemo_body_wrapper {
